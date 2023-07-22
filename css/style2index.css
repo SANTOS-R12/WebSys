@@ -1,0 +1,9 @@
+header {
+
+    background: url(../imagen/fondo11.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: 0rem 1rem;
+    background-size: 101% 100%;
+    border-bottom: 0px
+}
